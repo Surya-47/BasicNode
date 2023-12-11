@@ -1,0 +1,1 @@
+This file is automatically created since there was no such file in the directory in the specified path
